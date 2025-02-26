@@ -3,4 +3,4 @@ Free pdf resources
 
 
 ### Distributed system book links
-1. https://storage.printfriendly.com/downloads/pdf_1740459229_ef4db0A4.pdf
+1. https://book.mixu.net/distsys/
